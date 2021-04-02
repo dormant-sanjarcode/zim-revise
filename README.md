@@ -1,11 +1,12 @@
 # zim-revise
 A simple Zim-wiki plugin for revising notes.
 
-Two things are addded to the index section, for each page:
-1. Checkbox
+For each page in the index section, two things are added:
+1. A checkbox
 2. An optional textarea for writing a message.
 
 Important:
+* If all subpages are marked, the root page is marked.
 * No changed are made to the notebook.
 * Editing the notebook updates the revision file.
 * The revision file can be exported.
