@@ -7,6 +7,6 @@ For each page in the index section, two things are added:
 
 Important:
 * If all subpages are marked, the root page is marked.
-* No changed are made to the notebook.
+* The revision file is not part of the notebook.
 * Editing the notebook updates the revision file.
 * The revision file can be exported.
