@@ -1,8 +1,8 @@
 from zim.plugins import PluginClass
 
-class ZimRevisePlugin(PluginClass):
+class RevisionHelperPlugin(PluginClass):
     plugin_info = {
-      'name': _('Zim Revise'),
+      'name': _('Revision Helper'),
       'description': _('Revise notes in multiple sittings'),
       'author': 'Muhammad Sanjar Afaq',
     }
